@@ -2,7 +2,7 @@ Jesse Saenz
 Fall 2012
 Novak CS 429
 
-example usage: java Cons
+example usage: 1. Compile Cons.java 2. java Cons
 
 Will execute example usages of tree operations in java with default hardcoded example data that can be replaced in main function as is necessary. 
 
